@@ -1,5 +1,5 @@
 *{
-    font-family: 'Comic Sans MS', cursive, sans-serif;   /* cor mudada */
+    font-family: "Open Sans", sans-serif;   /* cor mudada */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -18,43 +18,43 @@ body{
     background-size: cover;
     min-height: 100vh;
     margin: 0;
-    background-color: rgb(191, 227, 236); /* cor mudada */
+    background-color: #eaeaea; /* cor mudada */
 }
 
 h2{
     text-align: center;
-    color:#84d4fc; /* cor mudada */
+    color:#0d6efd; /* cor mudada */
 }
 
 header{
     display: flex;
     justify-content: space-between;
-    background-color: rgb(238, 187, 187); /* cor mudada */
+    background-color: #ffff; /* cor mudada */
     height: 60px;
     align-items: center;
 }
 
 .menu{
-    color:#fcdc7c; /* cor mudada */
+    color:#7ad03a; /* cor mudada */
     display: flex;
     justify-content: space-between;
     gap: 20px;
 }
 
 .help{
-    color:greenyellow;
+    color:#7ad03a;
     display: flex;
     gap: 40px;
 }
 
 .buttons--helper{
-    color:greenyellow;
+    color:#7ad03a;
     display: flex;
     gap: 10px;
 }
 
 .create{
-    color:green;
+    color:#7ad03a;
     display: flex;
     justify-content: space-between;
     text-align: center;
@@ -97,25 +97,25 @@ img{
 
 }
 h1{
-    color:#84d4fc;  /* cor mudada */
+    color:#0d6efd;  /* cor mudada */
     font-size: 70px;
     text-align: center;
 }
 
 ul{
     font-size: 30px;
-    color: white;
+    color: #777;
     
 }
 
 p{
     font-size: 30px;
-    color: white;
+    color: #777;
     
 }
 
 span{
-    color: #fcdc7c; /* cor mudada */
+    color: #7ad03a; /* cor mudada */
 }
 
 .text-02 {
@@ -131,7 +131,7 @@ span{
 
 .text-02 h2 {
     font-size: 40px;
-    color: #fcdc7c; /* cor mudada */
+    color: #7ad03a; /* cor mudada */
 }
 
 .text-02 p {
@@ -140,8 +140,8 @@ span{
 }
 
 footer{
-    color: #84d4fc; /* cor mudada */
-    background-color: rgb(238, 187, 187); /* cor mudada */
+    color: #0d6efd; /* cor mudada */
+    background-color: #ffff; /* cor mudada */
     text-align: center;
 }
 #buger{
@@ -156,7 +156,7 @@ footer{
     position: absolute;
     top: 50px;
     right: 0;
-    background-color: #fcdc7c; /* cor mudada */
+    background-color: #7ad03a; /* cor mudada */
     height: 120%; /* cor mudada */
     width: 25%;
     border-radius: 40px; /* cor mudada */
@@ -179,7 +179,7 @@ nav {
 a{
     text-decoration: none;
     font-size: 30px;
-    color: white;
+    color: #777;
 }
 
 #x{

@@ -1,5 +1,5 @@
 *{
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: "Open Sans", sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -18,43 +18,43 @@ body{
     background-size: cover;
     min-height: 100vh;
     margin: 0;
-    background-color: rgb(191, 227, 236);
+    background-color: #eaeaea;
 }
 
 h2{
     text-align: center;
-    color:#84d4fc;
+    color:#0d6efd;
 }
 
 header{
     display: flex;
     justify-content: space-between;
-    background-color: rgb(238, 187, 187);
+    background-color: #ffff;
     height: 60px;
     align-items: center;
 }
 
 .menu{
-    color:#fcdc7c;
+    color:#7ad03a;
     display: flex;
     justify-content: space-between;
     gap: 20px;
 }
 
 .help{
-    color:greenyellow;
+    color:#7ad03a;
     display: flex;
     gap: 40px;
 }
 
 .buttons--helper{
-    color:greenyellow;
+    color:#7ad03a;
     display: flex;
     gap: 10px;
 }
 
 .create{
-    color:green;
+    color:#7ad03a;
     display: flex;
     justify-content: space-between;
     text-align: center;
@@ -98,23 +98,23 @@ img{
 
 ul{
     font-size: 20px;
-    color: white
+    color: #777
 }
 
 h1{
-    color:#84d4fc; 
+    color:#0d6efd; 
     font-size: 70px;
     text-align: center;
 }
 
 p{
     font-size: 30px;
-    color: white;
+    color: #777;
     
 }
 
 span{
-    color: #fcdc7c;
+    color: #7ad03a;
 }
 
 .text-02 {
@@ -134,8 +134,8 @@ span{
 }
 
 footer{
-    color: #84d4fc;
-    background-color: rgb(238, 187, 187);
+    color: #0d6efd;
+    background-color: #ffff;
     text-align: center;
 }
 #buger{
@@ -150,7 +150,7 @@ footer{
     position: absolute;
     top: 50px;
     right: 0;
-    background-color: #fcdc7c;
+    background-color: #7ad03a;
     height: 120%;
     width: 25%;
     border-radius: 40px;
@@ -173,7 +173,7 @@ nav {
 a{
     text-decoration: none;
     font-size: 30px;
-    color: white;
+    color: #777;
 }
 
 #x{
